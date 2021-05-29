@@ -1,1 +1,2 @@
 # List-Of-Projects
+The projects listed in this repository are a few of the computer science related projects I've worked on during my time as a computer science major. The C Programs, House Price Calculator and Circuit Simulator were assignments for Computer Science related courses I took at Rutgers. The Python program, the Encourage Bot is a personal project that was made for fun and to learn and expierence a different coding language.
